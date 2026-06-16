@@ -1,0 +1,2117 @@
+{
+"items": [
+{
+"symbol": "2802.T",
+"company": "",
+"name": "ABF 绝缘膜(独家垄断·非主营)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "玻璃基板(Glass Substrate)在2027年前宣布Tier-1量产,ABF有机膜需求顶部提前出现",
+"status": "untriggered"
+},
+{
+"text": "Sekisui Chemical或中国厂商在2027年前完成Ibiden/Unimicron高端ABF供应商资质认证,垄断被打破",
+"status": "untriggered"
+},
+{
+"text": "FY2026(截至2027年3月)电子材料分部实际增速<10%,vs公司指引+21%,需求低于预期",
+"status": "untriggered"
+},
+{
+"text": "中东Hormuz封锁持续导致FY2026业务利润实际损失>¥200亿(公司警告上限¥300亿)",
+"status": "untriggered"
+},
+{
+"text": "ABF价格上涨低于10%(vs预期30%+),下游基板厂谈判力超预期,涨价逻辑落空",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "high",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "味之素5/14宣布ABF涨价30%(Q3起生效),直接证实涨价逻辑,使'涨价<10%'熊条件证伪"
+},
+{
+"last_checked": "2026-06-16",
+"text": "高端T-glass紧缺,H2 2026实际供应缺口或>40%(市场估,[未核实IR])"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Hormuz 6/14达成重开协议→'封锁持续致FY利润损失>¥200亿'风险后退"
+}
+],
+"next_catalyst": "",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "3037.TW",
+"company": "",
+"name": "ABF 载板(无美ADR)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "◐",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "NVIDIA/AMD 2026 H2 公开宣布 Ibiden 或 Shinko 份额扩大超 10 个百分点",
+"status": "untriggered"
+},
+{
+"text": "2026 全年营收未超 NT$1,600 亿（低于公司 record revenue 引导）",
+"status": "untriggered"
+},
+{
+"text": "ABF 高端载板 2026 H2 年化涨价幅度转负（供需逆转早于预期）",
+"status": "untriggered"
+},
+{
+"text": "2027 毛利率（Gross Margin）低于 18%（定价权受损，Capex 稀释护城河）",
+"status": "untriggered"
+},
+{
+"text": "台海地缘政治事件导致 TWSE 流动性中断或出口管制实施",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "味之素ABF涨价30%读through:欣兴作下游载板厂成本上升,关注转嫁与稼动率"
+},
+{
+"last_checked": "2026-06-16",
+"text": "无直接公司新闻;ABF载板因先进封装层数升级(3+3→13+13)需求结构走强"
+}
+],
+"next_catalyst": "",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "4186.T",
+"company": "",
+"name": "EUV 光刻胶(无美ADR)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "JSR MOR金属氧化物胶在2nm以下工艺渗透>30%，TOK聚合物胶技术路线被降级",
+"status": "untriggered"
+},
+{
+"text": "郡山新厂投产后EUV光刻胶市场价格下滑>15%（寡头扩产引发价格战）",
+"status": "untriggered"
+},
+{
+"text": "FY2026 电子功能材料分部实际增速<8%（vs指引+12.3%），AI需求拉力被高估",
+"status": "untriggered"
+},
+{
+"text": "Hormuz封锁结束后PGMEA原料价格恢复，预期ASP上行逻辑失效",
+"status": "untriggered"
+},
+{
+"text": "中国国产化在KrF光刻胶取得重大突破并向ArF延伸，TOK中低端胶营收受损",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "Q1 FY26(5/11):营收+23.6%/归母+55.8%,全年指引维持(营收¥261B/营利¥52.2B)"
+},
+{
+"last_checked": "2026-06-16",
+"text": "AI服务器EUV光刻胶需求盖过成本端;Hormuz协议移除PGMEA原料成本担忧"
+},
+{
+"last_checked": "2026-06-16",
+"text": "2月与英国Irresistible Materials(分子玻璃EUV胶)签JDA,押注下一代"
+}
+],
+"next_catalyst": "",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "AAOI",
+"company": "Applied Optoelectronics",
+"name": "光模块 / 光互连",
+"gt_role": "shovel",
+"framework": "Serenity",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "Q3 2026 营收低于 $260M（1.6T爬坡/客户缩单失败信号）",
+"status": "untriggered"
+},
+{
+"text": "Q3/Q4 non-GAAP 毛利率未突破 33%（ASP下滑快于成本降低，竞争压力失控）",
+"status": "untriggered"
+},
+{
+"text": "Microsoft 或核心客户公开转向自研光模块或 InnoLight",
+"status": "untriggered"
+},
+{
+"text": "全年 CapEx 超 $400M 且不伴随对应营收提升（资本效率崩坏）",
+"status": "untriggered"
+},
+{
+"text": "2026 年内再度发起 >$300M ATM 或大额增发（现金告急）",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Serenity",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "AGCJY",
+"company": "",
+"name": "EUV 掩膜坯/特种玻璃",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "2026年H2 EUV掩膜坯出货量同比未能正增长（管理层已承诺回升）",
+"status": "untriggered"
+},
+{
+"text": "Hoya Gen-3 TaBN路线被主流Fab 2nm+全面采用，AGC份额跌至<35%",
+"status": "untriggered"
+},
+{
+"text": "任何第三家供应商完成主流Fab的EUV掩膜坯商业认证",
+"status": "untriggered"
+},
+{
+"text": "AI数据中心资本开支收缩导致TSMC先进节点利用率跌至70%以下",
+"status": "untriggered"
+},
+{
+"text": "Life Science CDMO亏损持续扩大超¥300亿/年，集团整体估值受损",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "Q1 FY26营利+48.8%(日元贬值+东南亚基础化学+欧洲建筑玻璃涨价驱动),EUV掩膜坯段未单列"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Hormuz协议偏正面(降成本端);EUV掩膜坯需求随AI晶圆厂扩张持续"
+}
+],
+"next_catalyst": "",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "ALAB",
+"company": "Astera Labs",
+"name": "AI连接/重定时器(PCIe/CXL retimer·卖铲人)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "",
+"low_grade": "",
+"stance": "",
+"view": "",
+"one_liner": "",
+"falsification": [],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "routine",
+"notes": "STEP4轻量入列:AI机架内连接瓶颈(retimer/Scorpio fabric);6/22同批纳入Nasdaq-100,待深研究",
+"as_of": null
+},
+{
+"symbol": "AMAT",
+"company": "Applied Materials",
+"name": "半导体设备(卖铲人)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "Q3 FY2026 实际营收跌破 $8.45B（指引下限），设备周期放缓信号",
+"status": "untriggered"
+},
+{
+"text": "中国营收连续两季单季跌破 $1.5B（追加制裁导致），颠覆全年指引",
+"status": "untriggered"
+},
+{
+"text": "GAA 市场份额被第三方数据证伪（AMAT 实际 <50%），增长叙事核心支柱动摇",
+"status": "untriggered"
+},
+{
+"text": "FCF 连续 2 季低于 $300M 且资本开支维持 $600M+，股东回报能力下降",
+"status": "untriggered"
+},
+{
+"text": "BIS 追加限制导致 AGS 中国服务营收受阻，服务业务增长受损",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "APD",
+"company": "Air Products",
+"name": "稀有/特种气体(Ne/Kr/Xe/HF)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-16"
+},
+{
+"symbol": "APLD",
+"company": "Applied Digital",
+"name": "AI 数据中心 / HPC 托管",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "Polaris Forge 2 Building 1（150MW）2026年交付延迟超一季度，触发租约罚款条款",
+"status": "untriggered"
+},
+{
+"text": "CoreWeave 拖欠租金、重谈合同或申请破产保护",
+"status": "untriggered"
+},
+{
+"text": "后续项目融资（仍需$14B+建设资金）无法以可接受利率落地，建设放缓",
+"status": "untriggered"
+},
+{
+"text": "任意一张 take-or-pay 合同被合法终止或价格重谈下调",
+"status": "untriggered"
+},
+{
+"text": "Cloud业务剥离（ChronoScale/EKSO）失败，REIT路径关闭，估值倍数收缩",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "high",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "6/9拟发$1.59B 7.0%高级担保票据(2031到期)为Polaris Forge 1第四栋ELN-04(150MW)融资,预计6/16交割"
+},
+{
+"last_checked": "2026-06-16",
+"text": "$7B CoreWeave租约backstop使项目级融资成型;园区扩至400MW+ IT负荷,需求超既有合约"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Q2 FY26(财年8月止)财报~10月"
+}
+],
+"next_catalyst": "2026-06-16 $1.59B票据交割",
+"last_reviewed": "2026-06-16",
+"source": "Aschenbrenner",
+"notes": "未深度研究",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "ATS.VI",
+"company": "",
+"name": "ABF 载板(奥地利上市)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard-expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "FY2026/27 Microelectronics营收低于€1.1B(全年营收低于€2.1B指引下限)",
+"status": "untriggered"
+},
+{
+"text": "净债务/EBITDA至FY2026/27末仍高于3.0x,现金流预期落空",
+"status": "untriggered"
+},
+{
+"text": "2026H2 ABF载板季度涨价由正转负,供需逆转早于预期",
+"status": "untriggered"
+},
+{
+"text": "AMD或Intel公开宣布将AT&S份额下调超30%",
+"status": "untriggered"
+},
+{
+"text": "Ibiden/Unimicron 2026年实际新增ABF产能超指引50%,市场提前平衡",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "味之素ABF涨价30%读through影响载板成本;无直接公司新闻"
+}
+],
+"next_catalyst": "",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "AVGO",
+"company": "Broadcom",
+"name": "定制 ASIC / 网络(反向信号)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-short",
+"model_distance": "structure",
+"moat_durability": "",
+"low_grade": "",
+"stance": "",
+"view": "偏空",
+"one_liner": "",
+"falsification": [
+{
+"text": "RPO 下季低于 $1,646 亿,新合同签约速度低于执行速度",
+"status": "untriggered"
+},
+{
+"text": "Q3 实际 AI 收入低于 $160 亿自身指引",
+"status": "untriggered"
+},
+{
+"text": "Google/Meta 公开宣布减少 Broadcom 定制 ASIC 依赖",
+"status": "untriggered"
+},
+{
+"text": "GAAP 毛利率连续两季低于 68%,产品组合恶化超指引",
+"status": "untriggered"
+},
+{
+"text": "FY2027 AI 收入展望被下调至低于 $1,000 亿",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Aschenbrenner",
+"notes": "反向信号",
+"as_of": null
+},
+{
+"symbol": "AXTI",
+"company": "AXT Inc",
+"name": "InP / GaAs 衬底",
+"gt_role": "shovel",
+"framework": "Serenity",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "✘",
+"stance": "卡点是真的,但不对称已不在(估值/中国敞口)",
+"view": "看空",
+"one_liner": "InP 衬底卡点是真的,但市值已大、P/S 极高、近~100% 中国生产 → 不对称早已不在(Serenity 框架经典反例)。",
+"falsification": [
+{
+"text": "出口许可对美客户持续批准率<50%或全面禁运触发 → 扩产逻辑崩溃",
+"status": "untriggered"
+},
+{
+"text": "2026年底季度产出未达$35M目标或2027 CapEx超预算30%+ → 执行风险落地",
+"status": "untriggered"
+},
+{
+"text": "连续两季度营收缺口>10% → 估值结构性重估",
+"status": "untriggered"
+},
+{
+"text": "InP订单积压cancel rate上升 → 积压水分暴露,真实需求低于账面",
+"status": "untriggered"
+},
+{
+"text": "硅光子或GaAs在数据中心光互连规模替代InP → 卡点消失",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Serenity",
+"notes": "frameworks.md 关键提醒里的反面案例。",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "BBJP",
+"company": "",
+"name": "材料卡点 ETF 路线",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "",
+"stance": "",
+"view": "中性",
+"one_liner": "日本大盘ETF，信越/Hoya/Ibiden约4%稀释暴露，最低费率美国上市日本ETF",
+"falsification": [
+{
+"text": "日元显著贬值>10%而信越/Hoya本身表现良好→BBJP跑输材料逻辑",
+"status": "untriggered"
+},
+{
+"text": "中国本土供应链突破EUV光刻胶或硅片→卡点护城河削弱",
+"status": "untriggered"
+},
+{
+"text": "日本大盘宏观恶化(日央行加息过猛)→ETF下跌与材料基本面脱钩",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "无干净纯材料ETF；BBJP是费率最低(0.19%)的日本广基，信越1.59%+Hoya1.06%+Ibiden0.62%合计~3.3%可见材料暴露。EWT(台湾)补充Unimicron 2.05%。",
+"as_of": "2026-06-16"
+},
+{
+"symbol": "BE",
+"company": "Bloom Energy",
+"name": "燃料电池 / AI 数据中心电力",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "AI数据中心燃料电池需求叙事;Crusoe 1.8GW暂停暴露执行风险,项目本体仍在",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "Crusoe Project Jade(怀俄明1.8GW)从'换客户继续'转为彻底取消",
+"status": "untriggered"
+},
+{
+"text": "其他多GW数据中心燃料电池订单连续推迟",
+"status": "untriggered"
+},
+{
+"text": "毛利率/产能利用率因项目延后下滑",
+"status": "untriggered"
+},
+{
+"text": "天然气/电网直供经济性反超燃料电池,需求叙事失效",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "6/10 Crusoe应客户要求暂停1.8GW怀俄明Project Jade(BE为一期燃料电池供应商),股价-10%后部分反弹"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Black Hills确认底层项目仍active,从Crusoe转直接大客户,预计2028初启动"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Q2财报~7月底"
+}
+],
+"next_catalyst": "2026-07末 Q2财报",
+"last_reviewed": "2026-06-16",
+"source": "Aschenbrenner",
+"notes": "未深度研究;frameworks.md 提示 forward PE 曾极高(透支风险)",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "CEG",
+"company": "Constellation Energy",
+"name": "核电 / AI 电力",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "PJM/ERCOT 电力现货价格系统性下跌至 CEG 核电盈亏平衡线以下，53% 未对冲输出转为亏损敞口",
+"status": "untriggered"
+},
+{
+"text": "FY2026 调整后 EPS 低于 $11.00 下限，全年指引下调",
+"status": "untriggered"
+},
+{
+"text": "Calpine 债务评级被降至非投资级，$30 亿抵押品触发条款激活",
+"status": "untriggered"
+},
+{
+"text": "Microsoft/Meta 之后 AI 超大厂核电 PPA 管线干涸，无新 20 年期协议",
+"status": "untriggered"
+},
+{
+"text": "核电 PTC 退坡或 Illinois CMC 合同（53M MWh/年）提前终止",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "6/2完成$3.09B二次股权配售(Calpine相关股东减持,CEG无募资)+同步~$558M回购对冲"
+},
+{
+"last_checked": "2026-06-16",
+"text": "6/13-15窗口无新催化,消化配售供给压力中"
+}
+],
+"next_catalyst": "2026-07-30 Q2财报",
+"last_reviewed": "2026-06-16",
+"source": "Aschenbrenner",
+"notes": "未深度研究",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "CLSK",
+"company": "CleanSpark",
+"name": "比特币矿企转 AI 数据中心",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "偏空",
+"one_liner": "",
+"falsification": [
+{
+"text": "签约首个超大规模AI/HPC租客(8-K披露合同期+MW规模) → 多头逻辑启动,立场上调",
+"status": "untriggered"
+},
+{
+"text": "BTC价格跌破$55,000且持续>30天 → 流动性危机概率上升,立场下调偏空",
+"status": "untriggered"
+},
+{
+"text": "现金余额跌破$100M且无新融资公告(当前$260.3M) → 流动性窗口危机",
+"status": "untriggered"
+},
+{
+"text": "至FY2026 Q4财报(约2026-11)AI/HPC仍零签约 → 转型叙事可信度受损",
+"status": "untriggered"
+},
+{
+"text": "德州Brazoria 300MW项目取得并网批准并开工 → 基础设施推进实质化(正向)",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Aschenbrenner",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "COHR",
+"company": "Coherent",
+"name": "光模块 / 光互连",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "数据中心 book-to-bill 连续两季跌破 1x，需求叙事瓦解",
+"status": "untriggered"
+},
+{
+"text": "1.6T 良率持续低于预期，导致 Q4/FY27Q1 营收 miss 或毛利率指引下调至 non-GAAP <40%",
+"status": "untriggered"
+},
+{
+"text": "InnoLight/中国竞对拿到 NVIDIA 800G/1.6T 大额份额，COHR 数据中心增速回落至个位数",
+"status": "untriggered"
+},
+{
+"text": "NVIDIA 披露自研 CPO 模块计划，减少对 Coherent 采购依赖",
+"status": "untriggered"
+},
+{
+"text": "工业分部连续 3 季 YoY 负增长，SiC 未见触底，拖累整体毛利率",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Aschenbrenner",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "CRWV",
+"company": "CoreWeave",
+"name": "AI 算力出租(neocloud)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "NDX纳入带机械买盘;但9.625%发债+~$35B债务+负FCF,资本成本高企",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "9.625%/8.5%欧元票息显示资本成本未降,2026再融资利率继续走高",
+"status": "untriggered"
+},
+{
+"text": "backlog $99.4B中大客户(微软/OpenAI)缩单或延付",
+"status": "untriggered"
+},
+{
+"text": "FY2026收入低于$12B指引下限",
+"status": "untriggered"
+},
+{
+"text": "内部人持续抛售(CSO已减持~$7.45M)",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "high",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "6/12宣布纳入NDX(6/22生效),股价~+5%;6/11启动$3.5B高级票据($1.25B@9.625%+€2B@8.5%,2032到期)"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Q1'26营收$2.08B(+112%),backlog $99.4B,FY26收入指引$12–13B"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Q2财报~8/18"
+}
+],
+"next_catalyst": "2026-06-22 纳入Nasdaq-100生效",
+"last_reviewed": "2026-06-16",
+"source": "Aschenbrenner",
+"notes": "未深度研究",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "DD",
+"company": "",
+"name": "封装介电/电子材料 [材料卡点已剥离为Qnity(Q) NYSE]",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "",
+"stance": "",
+"view": "中性",
+"one_liner": "AI封装介电shovel；真正卡点主体已变为Qnity(Q)，DD残体与AI材料主题零相关",
+"falsification": [
+{
+"text": "Qnity连续2季有机增速<10%：AI capex传导失效，多头逻辑打折",
+"status": "untriggered"
+},
+{
+"text": "Interconnect Solutions段毛利率同比下降>200bp：定价权丢失信号",
+"status": "untriggered"
+},
+{
+"text": "主力客户将Qnity某品类替换为竞品(官方公告)：护城河弱于预期",
+"status": "untriggered"
+},
+{
+"text": "Glass interposer/glass core路线推迟>3年：新增量落空，压缩估值",
+"status": "untriggered"
+},
+{
+"text": "韩华HBF 2027年前实现>10%ABF份额：封装材料垄断定价体系被打破",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "AI材料卡点真正主体已拆分为Qnity Electronics(Q)；DD留守医疗/水/工业，与AI主题无直接关联。Q美股直接可买，S&P500成分，IBKR无障碍。",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "DRAM",
+"company": "",
+"name": "存储主题 ETF(全球存储寡头)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "cyclical",
+"low_grade": "✘",
+"stance": "",
+"view": "偏空",
+"one_liner": "",
+"falsification": [
+{
+"text": "三星/海力士 7–8月电话会确认 2027 量价也锁定、无降价/重谈",
+"status": "untriggered"
+},
+{
+"text": "AI 内存需求被证为结构性阶跃(而非周期)",
+"status": "untriggered"
+},
+{
+"text": "H2 2027 新产能上量后 DRAM/HBM 价格不跌",
+"status": "untriggered"
+},
+{
+"text": "现货价(TrendForce/DXI)继续创新高",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "ENTG",
+"company": "",
+"name": "特气/超纯化学品·CMP(美股最纯材料标的)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "中国收入同比下滑>30%超两季，本地化对冲失效",
+"status": "untriggered"
+},
+{
+"text": "WFE支出连续两季同比下滑>10%，先进逻辑投资暂停",
+"status": "untriggered"
+},
+{
+"text": "CMP浆料市场份额跌破20%，出现新强力竞争者被TSMC/SK Hynix采用",
+"status": "untriggered"
+},
+{
+"text": "毛利率连续两季低于43%，定价能力丧失信号",
+"status": "untriggered"
+},
+{
+"text": "2026年底净杠杆未降至3.5x以下，FCF低于$4亿全年",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "HOCPY",
+"company": "",
+"name": "EUV 掩膜坯(份额~75%+，来源存冲突)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "Samsung 切换成功：S&S Tech/ESOL 在2026 Q4前通过Samsung量产认证，Hoya直接失份额",
+"status": "untriggered"
+},
+{
+"text": "AGC 宣布新增1000片/月以上EUV掩膜坯产能并进入量产，双寡头格局倾斜",
+"status": "untriggered"
+},
+{
+"text": "ASML 将2026-2027 EUV/High-NA机台出货指引下调15%+，掩膜坯需求增速上限同步压缩",
+"status": "untriggered"
+},
+{
+"text": "连续两季度IT部门OPM降至25%以下（当前约30%+），定价权受损确立",
+"status": "untriggered"
+},
+{
+"text": "美日联合将EUV掩膜坯纳入芯片出口管制清单，中国业务直接受损",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "HON",
+"company": "Honeywell",
+"name": "散热 TIM(热墙)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-16"
+},
+{
+"symbol": "IBIDY",
+"company": "",
+"name": "ABF 载板(最深、最易被忽视一环)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "玻璃基板量产前置:若 Intel/AMD 2027 年前完成旗舰产品玻璃基板量产认证,ABF 主导地位提前动摇",
+"status": "untriggered"
+},
+{
+"text": "电子分部 OPM 连续两季低于 20%:良率爬坡或定价权减弱信号",
+"status": "untriggered"
+},
+{
+"text": "Unimicron/南亚获 Nvidia 顶端 GPU 14 层+全量产认证:市场结构根本性改变",
+"status": "untriggered"
+},
+{
+"text": "Ajinomoto ABF 膜第二供应商 2027 年前获高端认证:Ibiden 材料优先权消失",
+"status": "untriggered"
+},
+{
+"text": "Ono 工厂量产时间推迟至 FY2028+:缺口期无法受益且折旧先压利润",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "味之素ABF涨价30%(Q3起):Ibiden成本上升但作为高端ABF载板龙头有转嫁定价权"
+},
+{
+"last_checked": "2026-06-16",
+"text": "最近硬数据为去年12月止季(3/20发布)营收+18%/营利率15.2%;AI封装订单激增"
+}
+],
+"next_catalyst": "",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "IREN",
+"company": "IREN Ltd",
+"name": "算力 / AI 云",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "微软$9.7B合约+欧洲490MW落地;偏多,但单一超大客户集中度高",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "微软$9.7B AI云合约缩单/延期,~$1.94B ARR兑现低于预期",
+"status": "untriggered"
+},
+{
+"text": "Nostrum 490MW西班牙并网/建设延迟超一季",
+"status": "untriggered"
+},
+{
+"text": "$3.65B GPU融资成本上升或追加股权稀释",
+"status": "untriggered"
+},
+{
+"text": "比特币挖矿现金流恶化拖累AI转型资本",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "6/15完成收购Nostrum(西班牙490MW并网AI数据中心+50人团队),首入欧洲,总电力组合达5GW"
+},
+{
+"last_checked": "2026-06-16",
+"text": "6/1关闭$3.65B投资级GPU融资支撑$9.7B微软合约(~$1.94B ARR);未入6月NDX"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Nostrum整合;微软合约履约"
+}
+],
+"next_catalyst": "2026-08 Q1 FY2027财报",
+"last_reviewed": "2026-06-16",
+"source": "Aschenbrenner",
+"notes": "未深度研究",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "KLAC",
+"company": "KLA Corp",
+"name": "半导体设备(量测)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "WFE预测连续两季度下调或TSMC资本开支削减>15%",
+"status": "untriggered"
+},
+{
+"text": "中国量测设备出口管制升级，BIS明确纳入光学晶圆检测",
+"status": "untriggered"
+},
+{
+"text": "2026全年先进封装量测收入低于$8亿(目标$10亿折扣20%+)",
+"status": "untriggered"
+},
+{
+"text": "连续两季度非GAAP毛利率跌破60%",
+"status": "untriggered"
+},
+{
+"text": "日系/中国本土量测在5nm以上节点市占率增量超10%",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "LIN",
+"company": "",
+"name": "工业/电子特种气体",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "电子端营收连续两季增速<5%（当前10%），或Fab积压新增停滞——AI敞口驱动力破裂",
+"status": "untriggered"
+},
+{
+"text": "氦气现货价格2026Q3-Q4回落至2025年均价以下，且长协重签未锁定更高价格——氦气催化剂提前落幕",
+"status": "untriggered"
+},
+{
+"text": "APAC营收连续两季同比负增长，管理层说明主因为中国客户流失或制裁——地缘风险实质化",
+"status": "untriggered"
+},
+{
+"text": "FY2026调整EPS实际低于指引下限$17.60，主因工业量需疲软——非AI驱动结构性放缓",
+"status": "untriggered"
+},
+{
+"text": "Air Liquide/Air Products宣布在已有Linde长协的同一先进Fab取得新合同份额——护城河低于预期",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-14"
+},
+{
+"symbol": "LRCX",
+"company": "Lam Research",
+"name": "半导体设备",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "中国营收连续两季跌至25%以下，或美国宣布半导体设备全面对华禁令",
+"status": "untriggered"
+},
+{
+"text": "Q4 FY2026实际营收低于$6.0B（指引下沿$6.2B再破）",
+"status": "untriggered"
+},
+{
+"text": "WFE年内调头向下至$120B以下（存储客户大幅削减资本支出）",
+"status": "untriggered"
+},
+{
+"text": "NAND现货价格半年内跌40%+，导致客户取消或延迟NAND转换订单",
+"status": "untriggered"
+},
+{
+"text": "GAAP毛利率连续2季跌回47%以下，说明定价力或产品组合恶化",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "MTRN",
+"company": "",
+"name": "溅射靶材/特种材料",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "半导体value-add增长连续2季回落至<5% YoY且管理层不归因一次性因素",
+"status": "untriggered"
+},
+{
+"text": "主要客户(TSMC/三星/Hynix)公开披露引入JX Nippon等作dual-source靶材",
+"status": "untriggered"
+},
+{
+"text": "Q2/Q3 2026 backlog不再创新高或同比转负",
+"status": "untriggered"
+},
+{
+"text": "中国国产替代靶材在7nm以下节点取得实质认证突破",
+"status": "untriggered"
+},
+{
+"text": "backlog新高背景下EBITDA margin连续2季收缩(定价权丧失或成本失控)",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "MU",
+"company": "Micron Technology",
+"name": "DRAM / HBM 内存(核心瓶颈)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "cyclical",
+"low_grade": "✘",
+"stance": "真瓶颈,但已涨透·周期顶(兑现后接盘,非埋伏)",
+"view": "偏空",
+"one_liner": "HBM/DRAM 是 AI 当下真实瓶颈,但已 $1.1T 市值、距高点~10%、自低点+850%——溢价更像周期顶部的租金,不是可埋伏的不对称。",
+"falsification": [
+{
+"text": "Q3 FY26(06-24)毛利稳在~81% 且 Q4 指引不降",
+"status": "untriggered"
+},
+{
+"text": "三星/海力士 7–8 月电话会无 2027 HBM 降价或客户重谈",
+"status": "untriggered"
+},
+{
+"text": "2027 HBM 量价也被一手源确认锁定",
+"status": "untriggered"
+},
+{
+"text": "新产能 H2 2027 集中上量后价格不跌 → 证伪'只是周期顶'",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "high",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "6/24 Q3财报(街预期~$33.5B营收/~81%毛利,YTD大涨后任何HBM定价/配额谨慎措辞都会放大波动)"
+},
+{
+"last_checked": "2026-06-16",
+"text": "HBM4已获NVIDIA Vera Rubin认证(6/5,与三星/海力士并列),配额份额仍偏小"
+},
+{
+"last_checked": "2026-06-16",
+"text": "DDR4现货+2.2%周环比、NAND现货-0.2%基本企稳;合约价Q2 DRAM+58~63%/NAND+70~75%"
+}
+],
+"next_catalyst": "2026-06-24 Q3 FY2026 财报",
+"last_reviewed": "2026-06-16",
+"source": "both",
+"notes": "两人清单都提过。研究详见 2026-06-15 MU×VST 报告。",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "MUU",
+"company": "Direxion Daily MU Bull 2X",
+"name": "Direxion 2x 做多 Micron",
+"gt_role": "",
+"framework": "leverage-tool",
+"model_distance": "",
+"moat_durability": "",
+"low_grade": "",
+"stance": "",
+"view": "",
+"one_liner": "🔴 每日复利重置 + NAV 磨损,只适合短线,不可长持。",
+"falsification": [
+{
+"text": "MU Q3 FY2026(2026-06-24)营收 < $33B 或毛利率 < 79%，利好预期破裂",
+"status": "untriggered"
+},
+{
+"text": "HBM供给过剩或三星/SK Hynix大幅降价，打破结构性供需叙事",
+"status": "untriggered"
+},
+{
+"text": "宏观冲击导致科技股系统性抛售，杠杆ETF损失放大",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "杠杆工具,强制风险提示",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "NBIS",
+"company": "Nebius Group",
+"name": "AI 云 / 算力",
+"gt_role": "shovel",
+"framework": "Serenity",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "Meta $27B合约+NDX纳入打开机构买盘;偏多但单一大客户高度集中",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "Meta $27B合约中$15B期权(5年)到期未行权,实际收入远低于头条",
+"status": "untriggered"
+},
+{
+"text": "2026 capex指引$20–25B,但ARR/收入兑现连两季低于指引",
+"status": "untriggered"
+},
+{
+"text": "单一客户(Meta)收入占比>60%且无新增大客户分散",
+"status": "untriggered"
+},
+{
+"text": "神经云价格战致毛利率转负或现金消耗加速、再融资成本飙升",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "high",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "6/15因NDX纳入消息+8.9%(≥5%异动);6/22生效后被动买盘消化"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Q1'26营收$399M(+684%YoY),capex指引上调$20–25B,期末现金$9.3B"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Q2财报~7/29;Meta合约履约进度"
+}
+],
+"next_catalyst": "2026-06-22 纳入Nasdaq-100生效",
+"last_reviewed": "2026-06-16",
+"source": "Serenity",
+"notes": "未深度研究",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "NRG",
+"company": "NRG Energy",
+"name": "气电 / 电力",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "◐",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "2026年底前hyperscaler大单仍无公告，AI溢价预期压缩",
+"status": "untriggered"
+},
+{
+"text": "2026全年Adj. EBITDA低于$5.0B，整合失败信号",
+"status": "untriggered"
+},
+{
+"text": "2027年底Net Debt/EBITDA仍高于3.5x，杠杆失控",
+"status": "untriggered"
+},
+{
+"text": "德州立法通过ERCOT电价限制，冲击峰值发电盈利",
+"status": "untriggered"
+},
+{
+"text": "SmartHome客户增速跌破5%，零售垂直整合稳定器失效",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "NVDA",
+"company": "NVIDIA",
+"name": "AI GPU 龙头(反向信号)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-short",
+"model_distance": "structure",
+"moat_durability": "",
+"low_grade": "",
+"stance": "",
+"view": "偏空",
+"one_liner": "Aschenbrenner 做空标的=反向信号;只用来判断资金是否在轮动。🔴 散户做空亏损无上限,不构成操作指引。",
+"falsification": [
+{
+"text": "Q2 FY2027 实际收入低于 $88B 或 Q3 指引环比负增长",
+"status": "untriggered"
+},
+{
+"text": "非 GAAP 毛利率跌穿 73%（Rubin 良率问题或竞争压价）",
+"status": "untriggered"
+},
+{
+"text": "超大规模商明确披露 GPU capex 占比被 ASIC 替代（内部推理迁移）",
+"status": "untriggered"
+},
+{
+"text": "美国出口管制扩大至 H200/Rubin 且无豁免",
+"status": "untriggered"
+},
+{
+"text": "AMD MI400 在大型 CSP 训练侧市场份额突破 5%",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Aschenbrenner",
+"notes": "反向信号,非做空建议",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "ORCL",
+"company": "Oracle",
+"name": "云 / AI 基建(资本开支争议,反向信号)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-short",
+"model_distance": "model-adjacent",
+"moat_durability": "expandable",
+"low_grade": "",
+"stance": "RPO $638B验证AI需求未见顶;卖点是$40B再融资+$122B债务,非需求",
+"view": "偏空",
+"one_liner": "",
+"falsification": [
+{
+"text": "RPO增长停滞或大单取消,backlog单季环比转负",
+"status": "untriggered"
+},
+{
+"text": "FY2027 $40B再融资推高利息,FCF缺口持续>$25B(FY26已-$23.7B)",
+"status": "near"
+},
+{
+"text": "云毛利率持续压缩(云成本增速>收入增速)",
+"status": "near"
+},
+{
+"text": "FY2027收入低于$90B目标",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "high",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "Q4 FY26(6/10):营收$19.2B(+21%),RPO $638B(+363%YoY,单季+$85B);股价earnings后-10%+"
+},
+{
+"last_checked": "2026-06-16",
+"text": "卖压因FY27拟再融资$40B(翻倍)+长债$122B+利息$1.44B/季+云毛利压缩(云成本+56% vs 收入+47%)"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Q1 FY27指引EPS$1.72–1.76低于街~$1.80–1.90;FY27营收目标$90B(+33%)"
+}
+],
+"next_catalyst": "2026-09-10 Q1 FY2027财报",
+"last_reviewed": "2026-06-16",
+"source": "Aschenbrenner",
+"notes": "反向信号",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "RDDT",
+"company": "Reddit",
+"name": "内容 / 广告 / 数据授权",
+"gt_role": "harvester",
+"framework": "Serenity",
+"model_distance": "",
+"moat_durability": "",
+"low_grade": "◐",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "Google/OpenAI 续约金额低于现有水平或被推迟至2027年",
+"status": "untriggered"
+},
+{
+"text": "DAU YoY 增速连续两季跌破10%",
+"status": "untriggered"
+},
+{
+"text": "广告增速低于40%且利润率同步压缩",
+"status": "untriggered"
+},
+{
+"text": "Google AI Overview 分流导致Reddit搜索流量份额结构性下滑",
+"status": "untriggered"
+},
+{
+"text": "竞争对手UGC平台签署大额AI授权协议，削弱Reddit独家溢价",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Serenity",
+"notes": "未深度研究;数据授权=ground-truth 数据护城河候选,需查'距离基础模型多远'",
+"as_of": null
+},
+{
+"symbol": "RIOT",
+"company": "Riot Platforms",
+"name": "比特币矿企 / 数据中心",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "2026Q3前无AMD以外新大客户签约(单次≥50MW),转型叙事证伪",
+"status": "untriggered"
+},
+{
+"text": "2026年底运营租赁年化收入未达$37.8M量级,交付延期信号",
+"status": "untriggered"
+},
+{
+"text": "$500M ATM在未带来相应营收下快速动用>$200M,资本纪律崩塌",
+"status": "untriggered"
+},
+{
+"text": "BTC价格跌破$40,000:挖矿现金流倒挂+资产负债表双杀",
+"status": "untriggered"
+},
+{
+"text": "全球算力YoY增速超40%,矿业现金流支撑数据中心建设逻辑断裂",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Aschenbrenner",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "SHECY",
+"company": "",
+"name": "光刻胶 + 硅片（双料巨头）",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "300mm硅片均价持续跌幅>15%（供过于求）",
+"status": "untriggered"
+},
+{
+"text": "电子材料营业利润率跌破30%连续两季（当前约34.5%）",
+"status": "untriggered"
+},
+{
+"text": "中国本土300mm EPI硅片通过TSMC/三星量产认证",
+"status": "untriggered"
+},
+{
+"text": "非日本EUV光刻胶供应商实现量产出货（打破日本寡头）",
+"status": "untriggered"
+},
+{
+"text": "PVC业务大规模减值/重组冲击资产负债表",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "high",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "4/28明确因伊朗冲突/原油成本无法预测而撤回FY2027指引(PVC段),半导体材料段仍增长"
+},
+{
+"last_checked": "2026-06-16",
+"text": "Hormuz 6/14达成重开协议,若6/19签署应部分化解PVC成本不确定性,关注是否补发指引"
+},
+{
+"last_checked": "2026-06-16",
+"text": "同步宣布¥250B回购"
+}
+],
+"next_catalyst": "2026-06-19 Hormuz协议签署/或更新FY27指引",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "SIVE",
+"company": "Sivers Semiconductors",
+"name": "硅光子 / 毫米波(粉单 SIVEF)",
+"gt_role": "shovel",
+"framework": "Serenity",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "△",
+"stance": "",
+"view": "看空",
+"one_liner": "",
+"falsification": [
+{
+"text": "LiDAR客户Q4 2026未发布量产启动公告或下调订单规模",
+"status": "untriggered"
+},
+{
+"text": "CPO大客户（Hyperscaler/Nvidia供应链）确认排他采购Coherent/Lumentum，不纳入Sivers",
+"status": "untriggered"
+},
+{
+"text": "刑事调查升级至正式起诉或强制CEO/CFO离职",
+"status": "untriggered"
+},
+{
+"text": "Q2/Q3 2026连续两个季度营收YoY负增长，增长叙事破裂",
+"status": "untriggered"
+},
+{
+"text": "AGM通过53.8M新股但机构认购不足，引发更大幅度股价回调",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Serenity",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "SMH",
+"company": "VanEck Semiconductor ETF",
+"name": "半导体 ETF(反向信号)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-short",
+"model_distance": "structure",
+"moat_durability": "",
+"low_grade": "",
+"stance": "",
+"view": "偏空",
+"one_liner": "反向信号;非做空建议。",
+"falsification": [
+{
+"text": "SMH 单月净流出 >$30B 且连续 3 月为负,机构系统性减仓轮动实质发生",
+"status": "untriggered"
+},
+{
+"text": "NVDA FY2027 Q2 营收指引低于 $43B 或 TSMC Q3 指引低于 $38B,基本面下修",
+"status": "untriggered"
+},
+{
+"text": "SMH P/E 未压缩至 35x 以下而股价横盘,拥挤者站岗信号",
+"status": "untriggered"
+},
+{
+"text": "CoreWeave 或大型 hyperscaler 信用评级下调,AI 资本开支循环断裂",
+"status": "untriggered"
+},
+{
+"text": "美国对 NVDA H100/B200 或 TSMC 先进制程出口管制升级",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Aschenbrenner",
+"notes": "反向信号",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "SNDK",
+"company": "SanDisk",
+"name": "NAND 内存",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "cyclical",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "非GAAP毛利率连续两季跌破65%，表明NAND ASP已系统性下行",
+"status": "untriggered"
+},
+{
+"text": "FY2027 NBM位覆盖率无法突破40%（当前33%），新合同签署停止",
+"status": "untriggered"
+},
+{
+"text": "三星V10或SK海力士10代NAND宣布提前于2026年下半年量产",
+"status": "untriggered"
+},
+{
+"text": "Q4 FY2026或Q1 FY2027实际出货位低于指引5%以上，或单个NBM客户取消最低承诺",
+"status": "untriggered"
+},
+{
+"text": "美国对NAND出口至中国实施新限制，影响超过10%收入",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "both",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "SUOPY",
+"company": "",
+"name": "硅片(双寡头)",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard-expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "2026年H2 200mm/工业端库存消化失败，FY2026全年营业亏损超200亿日元——证伪周期底部假设",
+"status": "untriggered"
+},
+{
+"text": "TSMC/Samsung公开减少SUMCO采购比例，或GlobalWafers获大额先进节点LTA——证伪双寡头锁定逻辑",
+"status": "untriggered"
+},
+{
+"text": "2026年底至2027年初LTA续签价格低于当前水平——证伪定价权稳固判断",
+"status": "untriggered"
+},
+{
+"text": "Yoshinogari厂需求未明即重启导致FCF长期为负，D/E超0.6——证伪资本纪律改善假设",
+"status": "untriggered"
+},
+{
+"text": "USD/JPY跌破130（当前~155），日元升值大幅侵蚀营收——证伪盈利复苏时间表",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "Q1 FY26亏损扩大、EPS大幅不及预期:300mm AI/HBM/NAND强,但200mm及非AI(消费/工业/车)仍深度去库"
+},
+{
+"last_checked": "2026-06-16",
+"text": "结构性疲软(非Hormuz);Q2指引营收¥112B/营亏收窄至¥2.5B(假设USD/JPY 160);非AI去库前难全面转盈"
+}
+],
+"next_catalyst": "",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "TLN",
+"company": "Talen Energy",
+"name": "核电直供 Amazon",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "★",
+"stance": "",
+"view": "看多",
+"one_liner": "",
+"falsification": [
+{
+"text": "Cornerstone 收购未在 2026Q3 前获批关闭，整合风险实质化",
+"status": "untriggered"
+},
+{
+"text": "2026 全年 Adj. EBITDA 落在 $17.5 亿指引下沿或被下调",
+"status": "untriggered"
+},
+{
+"text": "Amazon PPA 满额供电（1.92 GW）延后至 2033 年以后",
+"status": "untriggered"
+},
+{
+"text": "Susquehanna 计划外停堆超过 60 天触发 PPA 交付违约",
+"status": "untriggered"
+},
+{
+"text": "PJM 2027/28 容量清算价格跌破 $200/MW-日",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "6/1获FERC等全部监管放行,$3.45B收购三座气电厂(Lawrenceburg/Waterford/Darby)将于'数周内'交割"
+},
+{
+"last_checked": "2026-06-16",
+"text": "增可调度产能、贴近PJM AI负荷区,扩大承接大负荷数据中心PPA能力;交割风险基本解除"
+}
+],
+"next_catalyst": "2026-08 Q2财报",
+"last_reviewed": "2026-06-16",
+"source": "user",
+"notes": "未深度研究",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "TSM",
+"company": "Taiwan Semiconductor (TSMC)",
+"name": "先进制程 / CoWoS 封装",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "偏多",
+"one_liner": "",
+"falsification": [
+{
+"text": "AI超大规模capex周期逆转：HPC营收占比从61%跌至<40%，高PE即失支撑",
+"status": "untriggered"
+},
+{
+"text": "台海军事冲突或封锁：哪怕数周断产，TSM ADR 即腰斩或停牌",
+"status": "untriggered"
+},
+{
+"text": "N2/N3良率在2026H2系统性恶化：推迟苹果A20/英伟达后继产品，客户分流",
+"status": "untriggered"
+},
+{
+"text": "三星/Intel Foundry在2nm级节点意外追平：客户分散供应商，TSMC定价权受损",
+"status": "untriggered"
+},
+{
+"text": "CoWoS实际产能远落后130k目标：封装收入不及预期+英伟达出货再卡脖",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Aschenbrenner",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "VST",
+"company": "Vistra",
+"name": "竞争性发电 + 核电 / AI 电力",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "hard",
+"low_grade": "◐",
+"stance": "耐久护城河(核电+20年PPA),但溢价兑现在 2028+",
+"view": "偏多",
+"one_liner": "核电 6.4GW + 20 年 PPA(Meta/AWS)是 GT 最耐久的扩不动护城河;但本质仍是商品电商,AI 溢价上行与下行都落在 2028+ 的敞口里。",
+"falsification": [
+{
+"text": "PJM/ERCOT 下修数据中心负荷预测、远期电价回落",
+"status": "untriggered"
+},
+{
+"text": "Meta/AWS 任一 PPA 重谈,或 433MW uprate 被 NRC 否/拖",
+"status": "untriggered"
+},
+{
+"text": "Cogentrix 关闭后净杠杆压不回 ~2.3x",
+"status": "untriggered"
+},
+{
+"text": "2028 商品电敞口兑现为亏损",
+"status": "untriggered"
+}
+],
+"thesis_status": "watch",
+"priority": "med",
+"watch_points": [
+{
+"last_checked": "2026-06-16",
+"text": "6/10-12 KKR/NVIDIA/KIA/Vistra共建Helix Digital($10B+长期资本承诺),Vistra任首选电力供应商"
+},
+{
+"last_checked": "2026-06-16",
+"text": "从商业核电卖方升级为$10B+平台内嵌基建伙伴,收入可见度/合约久期结构性改善"
+},
+{
+"last_checked": "2026-06-16",
+"text": "6/22除息$0.229"
+}
+],
+"next_catalyst": "2026-08-06 Q2财报",
+"last_reviewed": "2026-06-16",
+"source": "Aschenbrenner",
+"notes": "研究详见 2026-06-15 MU×VST 报告。",
+"as_of": "2026-06-15"
+},
+{
+"symbol": "WDC",
+"company": "Western Digital",
+"name": "HDD / AI 存储",
+"gt_role": "shovel",
+"framework": "Aschenbrenner-long",
+"model_distance": "structure",
+"moat_durability": "cyclical",
+"low_grade": "◐",
+"stance": "",
+"view": "中性",
+"one_liner": "",
+"falsification": [
+{
+"text": "任意季度非GAAP毛利率跌破45%，定价权松动信号",
+"status": "untriggered"
+},
+{
+"text": "AWS/Azure/GCP任一削减AI存储capex >10%，或WDC主动下调guidance幅度>10%",
+"status": "untriggered"
+},
+{
+"text": "季度HDD出货量(EB)同比转负，需求端扩张中止",
+"status": "untriggered"
+},
+{
+"text": "Seagate 40TB+ HAMR于2H2026先于WDC实现规模出货",
+"status": "untriggered"
+},
+{
+"text": "WDC管理层停止引用forward commitments或提前订购周期从52周明显缩短",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "user",
+"notes": "未深度研究",
+"as_of": null
+},
+{
+"symbol": "XFAB",
+"company": "X-FAB Silicon Foundries",
+"name": "特种半导体代工",
+"gt_role": "shovel",
+"framework": "Serenity",
+"model_distance": "structure",
+"moat_durability": "expandable",
+"low_grade": "◐",
+"stance": "",
+"view": "看空",
+"one_liner": "",
+"falsification": [
+{
+"text": "汽车营收 H2 2026 仍同比下滑超 5%，管理层复苏预判失效",
+"status": "untriggered"
+},
+{
+"text": "Melexis 客户份额降至 30% 以下且无替代客户填补",
+"status": "untriggered"
+},
+{
+"text": "EBITDA 利润率连续两季度低于 18%，折旧与定价双压",
+"status": "untriggered"
+},
+{
+"text": "SiC/宽禁带营收增速骤降至 10% 以下（当前 +152% YoY）",
+"status": "untriggered"
+},
+{
+"text": "股价回落 €6 以下而汽车基本面无改善，需重估多头论点",
+"status": "untriggered"
+}
+],
+"thesis_status": "unresearched",
+"priority": "med",
+"watch_points": [],
+"next_catalyst": "",
+"last_reviewed": "",
+"source": "Serenity",
+"notes": "未深度研究",
+"as_of": null
+}
+],
+"total": 47
+}

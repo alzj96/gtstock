@@ -1,0 +1,41 @@
+name: Refresh quotes
+
+# Re-pulls today's % change + ~30-day change from Yahoo and commits data/quotes.json.
+# The static page fetches data/quotes.json at runtime, so no rebuild is needed —
+# committing the refreshed file is enough for GitHub Pages to serve new numbers.
+
+on:
+  schedule:
+    # Hourly during US market hours (≈09:00–17:00 ET) on weekdays, in UTC.
+    # GitHub schedules are best-effort and may be delayed under load.
+    - cron: "0 13-21 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-quotes
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch latest quotes
+        run: node scripts/fetch-quotes.mjs
+      - name: Commit refreshed quotes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/quotes.json
+          if git diff --staged --quiet; then
+            echo "No quote changes."
+          else
+            git commit -m "chore: refresh quotes ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
