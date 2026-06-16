@@ -91,7 +91,10 @@ async function main() {
     };
   });
 
-  await writeFile(new URL("../data/quotes.json", import.meta.url), JSON.stringify({ items, total: items.length }));
+  await writeFile(
+    new URL("../data/quotes.json", import.meta.url),
+    JSON.stringify({ items, total: items.length, updated_at: asOf }),
+  );
   const okD = items.filter((i) => i.change_pct != null).length;
   const okM = items.filter((i) => i.change_30d_pct != null).length;
   console.log(`quotes.json refreshed: ${items.length} symbols | daily ${okD} | 30d ${okM}`);
