@@ -215,6 +215,64 @@
       "low_grade_note": ""
     },
     {
+      "symbol": "4062.T",
+      "company": "Ibiden",
+      "name": "ABF 载板(最深、最易被忽视一环)",
+      "gt_role": "shovel",
+      "framework": "barbell-long",
+      "model_distance": "structure",
+      "moat_durability": "high",
+      "moat_type": [],
+      "low_grade": "partial",
+      "stance": "ABF载板供不应求且有提价力;ADR流动性差,勿用ADR日内涨跌读基本面",
+      "view": "偏多",
+      "one_liner": "",
+      "falsification": [
+        {
+          "text": "玻璃基板量产前置:若 Intel/AMD 2027 年前完成旗舰产品玻璃基板量产认证,ABF 主导地位提前动摇",
+          "status": "untriggered"
+        },
+        {
+          "text": "电子分部 OPM 连续两季低于 20%:良率爬坡或定价权减弱信号",
+          "status": "untriggered"
+        },
+        {
+          "text": "Unimicron/南亚获 Nvidia 顶端 GPU 14 层+全量产认证:市场结构根本性改变",
+          "status": "untriggered"
+        },
+        {
+          "text": "Ajinomoto ABF 膜第二供应商 2027 年前获高端认证:Ibiden 材料优先权消失",
+          "status": "untriggered"
+        },
+        {
+          "text": "Ono 工厂量产时间推迟至 FY2028+:缺口期无法受益且折旧先压利润",
+          "status": "untriggered"
+        }
+      ],
+      "thesis_status": "watch",
+      "priority": "med",
+      "watch_points": [
+        {
+          "last_checked": "2026-08-07",
+          "text": "【载荷性·催化已兑现·强 + ADR噪音警告】8/4 揖斐电(4062.T)FY2026 Q1:EPS ¥64.14(市场¥53.17)、营收 ¥1,232.2亿(市场¥1,164.7亿),双双超预期;**全年营收指引由 ¥5,000亿上调至 ¥5,500亿、营业利润由 ¥900亿上调至 ¥1,270亿**;管理层称 AI 服务器载板、高端CPU/GPU **需求持续超过行业供给能力,支撑定价权**。【ADR噪音警告】8/6 ADR IBIDY −14.62% 至 $31.00,而**东证 4062.T 同日仅 −3.68% 至 ¥18,310** → 该 ADR 流动性差、跟踪误差极大,**日内涨跌不可用于读基本面,今后一律以 4062.T 为准**。【含义】ABF 载板「供不应求 + 有提价力」被公司自己的指引上调证实,是本周材料卡点侧最强的一手证据,同时利好 2802.T(味之素ABF膜)、3037.TW(欣兴)、ATS.VI。"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【次级异动 2026-09-24 · -3.42% 收 31.95(该标的最新可得收盘为 2026-09-23)】幅度在 3–5% 区间,未达本清单 ±5% 的深度分析阈值。**当日未找到公司层面一手催化**,标 [未核实];按简报纪律只登记价格与日期,不为没有一手源的波动编造归因。论点与证伪状态不变,裁决点仍是各自下一份季报。"
+        }
+      ],
+      "next_catalyst": "2026-11月初(预计) FY2026 Q2 决算:核对 ¥5,500亿营收/¥1,270亿营业利润上调后指引的兑现进度与载板价格表述",
+      "last_reviewed": "2026-09-25",
+      "source": "user",
+      "notes": "(2026-09-25 由 IBIDY(ADR IBKR查不到);",
+      "as_of": "2026-06-15",
+      "framework_note": "",
+      "gt_role_note": "",
+      "model_distance_note": "",
+      "moat_durability_note": "",
+      "low_grade_note": ""
+    },
+    {
       "symbol": "4186.T",
       "company": "",
       "name": "EUV 光刻胶(无美ADR)",
@@ -3791,6 +3849,47 @@
       "low_grade_note": ""
     },
     {
+      "symbol": "ENR.DE",
+      "company": "Siemens Energy",
+      "name": "西门子能源:燃气轮机+电网设备/HVDC/变压器,AI电力物理瓶颈的欧洲一极(交付周期以年计)",
+      "gt_role": "shovel",
+      "framework": "barbell-long",
+      "model_distance": "structure",
+      "moat_durability": "",
+      "moat_type": [],
+      "low_grade": "",
+      "stance": "",
+      "view": "",
+      "one_liner": "",
+      "falsification": [],
+      "thesis_status": "unresearched",
+      "priority": "med",
+      "watch_points": [
+        {
+          "last_checked": "2026-09-25",
+          "text": "【清单去重 2026-09-25】SMNEY 与本条为同一家公司(西门子能源的另一个美国 ADR 代码),已将 SMNEY 降为 low,西门子能源的研究统一记在本条名下。"
+        },
+        {
+          "last_checked": "2026-07-31",
+          "text": "【全市场·系统性】7/24–7/29 纳指六连跌、纳指100自高点回撤约10%入修正(诱因:AI 举债疑虑、中国国产浸没式DUV量产报道、Meta 组建 Meta Compute 对外卖富余算力冲击『算力稀缺溢价』、估值);7/29 联储按兵不动后再跌,7/30 单日纳指+2.8%、费半+7%(MSFT Azure 四年最快增速+16%、三星/SK海力士创纪录、摩根大通称对冲基金去杠杆抛售基本结束)。本清单 92 只中 72 只当日|涨跌|≥5%,判定为系统性 beta,不逐只升档。 【SMNEY】价 None。"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【清单去重 2026-09-25】**本条与 ENGGY 指向同一家公司**(西门子能源 Siemens Energy 的两个美国 ADR 代码)。两条当前都是 unresearched/med,并排放着会让同一家公司占掉两份补档额度。【处理】本条 priority 降为 low,西门子能源的研究与结论统一记在 **ENGGY** 名下;本条仅作备用报价来源。(两个 ADR 的流动性与报价更新频率可能不同——本次体检中 SMNEY 未取到报价,ENGGY 取到了,这本身也是该以 ENGGY 为主条目的理由。)"
+        }
+      ],
+      "next_catalyst": "",
+      "last_reviewed": "2026-09-25",
+      "source": "routine",
+      "notes": "2026-09-09 STEP4 轻量入列(未深研究)。入列理由见 name 字段;深档案留给后续 STEP3 逐步补。 (2026-09-25 由 ENGGY(错代码,实为Enagas)/SMNEY(不可交易) 换成 IBKR 可交易的本地代码)",
+      "as_of": null,
+      "framework_note": "",
+      "gt_role_note": "卖铲人/物理瓶颈",
+      "model_distance_note": "",
+      "moat_durability_note": "",
+      "low_grade_note": ""
+    },
+    {
       "symbol": "ENTG",
       "company": "",
       "name": "特气/超纯化学品·CMP(美股最纯材料标的)",
@@ -6593,6 +6692,34 @@
       "source": "用户加入 2026-06-24,基本面 web 一手核",
       "notes": "2026 营收预期~$3.45B(+521%);波动~102%、corr→MU~0.35。命门=单一超大客户集中。",
       "as_of": "2026-06-24",
+      "framework_note": "",
+      "gt_role_note": "",
+      "model_distance_note": "",
+      "moat_durability_note": "",
+      "low_grade_note": ""
+    },
+    {
+      "symbol": "NEX.PA",
+      "company": "Nexans",
+      "name": "Nexans:电缆与海缆,与 PRYMY 同层的欧洲一极,用于交叉验证「电网电缆是被忽视的物理卡点」",
+      "gt_role": "shovel",
+      "framework": "barbell-long",
+      "model_distance": "structure",
+      "moat_durability": "",
+      "moat_type": [],
+      "low_grade": "",
+      "stance": "",
+      "view": "",
+      "one_liner": "",
+      "falsification": [],
+      "thesis_status": "unresearched",
+      "priority": "med",
+      "watch_points": [],
+      "next_catalyst": "",
+      "last_reviewed": "2026-09-25",
+      "source": "routine",
+      "notes": "(2026-09-25 由 NEXNY(IBKR查不到) 换成 IBKR 可交易的本地代码)",
+      "as_of": null,
       "framework_note": "",
       "gt_role_note": "",
       "model_distance_note": "",
@@ -10652,5 +10779,5 @@
       "low_grade_note": ""
     }
   ],
-  "total": 213
+  "total": 216
 }
