@@ -85,26 +85,64 @@
       "gt_role": "shovel",
       "framework": "barbell-long",
       "model_distance": "structure",
-      "moat_durability": "",
+      "moat_durability": "low",
       "moat_type": [],
-      "low_grade": "",
-      "stance": "",
-      "view": "",
+      "low_grade": "partial",
+      "stance": "利润率75%靠NAND涨价非护城河,低PE更像周期顶定价",
+      "view": "中性·强周期",
       "one_liner": "",
-      "falsification": [],
-      "thesis_status": "unresearched",
-      "priority": "med",
-      "watch_points": [],
-      "next_catalyst": "",
+      "falsification": [
+        {
+          "text": "2Q实际non-GAAP营业利润率<75%或3Q指引环比下滑 → 价格高点已过,转偏空(最硬)",
+          "status": "untriggered"
+        },
+        {
+          "text": "单季资本开支跃升至¥200B以上(1Q为¥51.2B) → 供给纪律松动,转偏空",
+          "status": "untriggered"
+        },
+        {
+          "text": "美光9/30或三星/海力士确认NAND合约价环比转跌 → 行业价格拐点,转偏空",
+          "status": "untriggered"
+        },
+        {
+          "text": "2Q/3Q均兑现指引且合约价续涨、capex维持低位 → 6x PE属错杀,转偏多",
+          "status": "untriggered"
+        },
+        {
+          "text": "贝恩/东芝大规模减持或ADS上市伴随配售 → 股票供给压力兑现",
+          "status": "untriggered"
+        }
+      ],
+      "thesis_status": "researched",
+      "priority": "high",
+      "watch_points": [
+        {
+          "last_checked": "2026-09-25",
+          "text": "【一手·TDnet 2026-07-31】1Q FY2026营收¥1,767.1B(同比+415.5%);non-GAAP营业利润¥1,326.2B(75.0%);公司原文归因'ASP大幅上涨';2Q指引营收¥2,390.0B、non-GAAP营业利润¥1,900.0B、EPS ¥2,317.46(拆股前)"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【一手】1Q资本开支仅¥51.2B vs 经营现金流¥866.3B;8/27与Sandisk宣布到2032年约¥5万亿投资(以政府支持为前提)+新建Fab3 → 盯供给曲线"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【一手】8/3–8/10回购16,133,500股、¥800B(均价约¥49,586);贝恩系14.19%成第一大股东,东芝14.12%;9/15确认准备美国ADS上市(时间未定)"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "FY+1 EPS预期90天上修17% [未核实,一致预期无一手出处];2Q决算日未公告"
+        }
+      ],
+      "next_catalyst": "2026-09-30 美光FQ4财报(行业传导);2026-09-29 除权(推算;基准日9/30)/10-01 3拆1生效(价位全部÷3);FY2026 2Q决算未公告(去年11/13):核对non-GAAP营业利润率是否≥75%、3Q指引方向、capex",
       "last_reviewed": "2026-09-25",
       "source": "routine",
       "notes": "",
-      "as_of": null,
+      "as_of": "2026-09-25",
       "framework_note": "",
-      "gt_role_note": "",
-      "model_distance_note": "",
-      "moat_durability_note": "",
-      "low_grade_note": ""
+      "gt_role_note": "卖铲人·周期侧(与SNDK共用合资产能)",
+      "model_distance_note": "结构(隔着存储系统一层,企业级SSD原料)",
+      "moat_durability_note": "低(NAND玩家多、扩产门槛低,按存储分层为🔴)",
+      "low_grade_note": "距高点−50%、约6x前瞻PE,但利润率75%是价格驱动的周期顶签名"
     },
     {
       "symbol": "3696.HK",
@@ -151,28 +189,28 @@
       "priority": "high",
       "watch_points": [
         {
-          "text": "【本票最硬读数·一手中报】H1-2026 营收 US$106.303M(+287.2%),其中**药物发现及管线开发 US$103.131M 占 97.0%**,**软件订阅仅 US$2.697M(2.5%)**,**卖药收入为零(无任何获批药物)**。公司中报原文自述:收入「no guarantee or clear visibility on future revenue generation」。收入地域:美国 90.2%、中国大陆 4.1%。",
-          "last_checked": "2026-09-25"
+          "last_checked": "2026-09-25",
+          "text": "【本票最硬读数·一手中报】H1-2026 营收 US$106.303M(+287.2%),其中**药物发现及管线开发 US$103.131M 占 97.0%**,**软件订阅仅 US$2.697M(2.5%)**,**卖药收入为零(无任何获批药物)**。公司中报原文自述:收入「no guarantee or clear visibility on future revenue generation」。收入地域:美国 90.2%、中国大陆 4.1%。"
         },
         {
-          "text": "【临床数据的精确读法·必须纠正】Nature Medicine 原文(doi:10.1038/s41591-025-03743-2,NCT05938920,n=71,12周):**主要终点是安全性(TEAE 比例),不是疗效**;FVC 为次要终点。广泛引用的 **+98.4 mL 是 60mg QD 组的组内基线变化,不是对安慰剂差值**(安慰剂 −20.3 mL),摘要未给组间点估计/95%CI/p值且CI大幅重叠,论文措辞为「warrants further investigation」。**注意:公司中报称该发表提供「definitive clinical evidence of the efficacy」与「significant」改善,措辞强于论文本身——持续留意。**",
-          "last_checked": "2026-09-25"
+          "last_checked": "2026-09-25",
+          "text": "【临床数据的精确读法·必须纠正】Nature Medicine 原文(doi:10.1038/s41591-025-03743-2,NCT05938920,n=71,12周):**主要终点是安全性(TEAE 比例),不是疗效**;FVC 为次要终点。广泛引用的 **+98.4 mL 是 60mg QD 组的组内基线变化,不是对安慰剂差值**(安慰剂 −20.3 mL),摘要未给组间点估计/95%CI/p值且CI大幅重叠,论文措辞为「warrants further investigation」。**注意:公司中报称该发表提供「definitive clinical evidence of the efficacy」与「significant」改善,措辞强于论文本身——持续留意。**"
         },
         {
-          "text": "【Ⅲ期与FDA】GENESIS-IPF-3(NCT07687459):320例、**47中心全部在中国**、52周、主要终点为 FVC 年下降率;2026-09-09 首例给药(北京协和+上海市肺科);**CT.gov 预计主要终点完成 2029-10-30 —— 不是近期催化剂**。**口服剂型的 FDA IND 已由公司主动转为 inactive**(中报原文:placed on inactive status by us due to changes in our R&D strategies)。吸入剂型 2026-04 获 CDE IND。",
-          "last_checked": "2026-09-25"
+          "last_checked": "2026-09-25",
+          "text": "【Ⅲ期与FDA】GENESIS-IPF-3(NCT07687459):320例、**47中心全部在中国**、52周、主要终点为 FVC 年下降率;2026-09-09 首例给药(北京协和+上海市肺科);**CT.gov 预计主要终点完成 2029-10-30 —— 不是近期催化剂**。**口服剂型的 FDA IND 已由公司主动转为 inactive**(中报原文:placed on inactive status by us due to changes in our R&D strategies)。吸入剂型 2026-04 获 CDE IND。"
         },
         {
-          "text": "【因果顺序与用户原始印象的修正】用户记忆为「因AI成果过临床而暴涨100%」。实际:低点 HK$29.98(2025-12-30)→ 高点 HK$73.30(2026-02-20)为 **+144%,早于任何Ⅲ期里程碑**;而 Ⅲ 期启动日 2026-07-07 股价 HK$36.02,**距峰值 −51%**;其后自7月的36涨回55为第二波(+52%)才与临床事件同步。**叙事重定价与临床里程碑不同步,本次接近反向。**",
-          "last_checked": "2026-09-25"
+          "last_checked": "2026-09-25",
+          "text": "【因果顺序与用户原始印象的修正】用户记忆为「因AI成果过临床而暴涨100%」。实际:低点 HK$29.98(2025-12-30)→ 高点 HK$73.30(2026-02-20)为 **+144%,早于任何Ⅲ期里程碑**;而 Ⅲ 期启动日 2026-07-07 股价 HK$36.02,**距峰值 −51%**;其后自7月的36涨回55为第二波(+52%)才与临床事件同步。**叙事重定价与临床里程碑不同步,本次接近反向。**"
         },
         {
-          "text": "【财务约束与风险】**零息可转债 US$305M,2027-09-01 到期(仅约1年),转股价 HK$58.07 高于现价**,不转股即需现金偿付。潜在摊薄合计约股本 17.7%(自算)。**FY2024 $85.8M → FY2025 $56.2M(−34.5%),曾于2026-03-06发盈警**。历史客户集中度:前五大 86.2–94.4%,单一最大 56.6–76.2%。**H1-2026 中报不再拆分「药物发现 vs 管线开发」、不再披露大客户集中度(相对FY2025年报颗粒度下降)**。治理:2026-07-15 两名非执董同日辞任;董事长兼CEO,偏离 CG Code C.2.1。",
-          "last_checked": "2026-09-25"
+          "last_checked": "2026-09-25",
+          "text": "【财务约束与风险】**零息可转债 US$305M,2027-09-01 到期(仅约1年),转股价 HK$58.07 高于现价**,不转股即需现金偿付。潜在摊薄合计约股本 17.7%(自算)。**FY2024 $85.8M → FY2025 $56.2M(−34.5%),曾于2026-03-06发盈警**。历史客户集中度:前五大 86.2–94.4%,单一最大 56.6–76.2%。**H1-2026 中报不再拆分「药物发现 vs 管线开发」、不再披露大客户集中度(相对FY2025年报颗粒度下降)**。治理:2026-07-15 两名非执董同日辞任;董事长兼CEO,偏离 CG Code C.2.1。"
         },
         {
-          "text": "【多头侧一手事实】2026 年 BD:礼来首付 **US$115M**(潜在约$2.75bn)、SK Biopharm、Servier、武田、齐鲁等,**已披露首付/近期付款合计约 US$2.25 亿**。注意公司宣传的 $7.3bn/$11bn 是**潜在合约总价值含全部里程碑,与已收现金无关,不应作估值依据**。流动性:现金及投资组合 $584.8M + 可转债净额 $301.6M ≈ **约 $8.86 亿**,理论 runway 约 7 年(扣可转债约 4.6 年,自算)。**内部人在买不在卖**:已核对全部81份HKEX文件无大股东减持;董事长2026-09增持至8.02%,并与任峰自愿延长锁定6个月至约2027-06。合同负债 $2.1M→$29.2M。**VIE 架构:未发现**(全文无 VIE 字样,开曼 TopCo 直接持股)。",
-          "last_checked": "2026-09-25"
+          "last_checked": "2026-09-25",
+          "text": "【多头侧一手事实】2026 年 BD:礼来首付 **US$115M**(潜在约$2.75bn)、SK Biopharm、Servier、武田、齐鲁等,**已披露首付/近期付款合计约 US$2.25 亿**。注意公司宣传的 $7.3bn/$11bn 是**潜在合约总价值含全部里程碑,与已收现金无关,不应作估值依据**。流动性:现金及投资组合 $584.8M + 可转债净额 $301.6M ≈ **约 $8.86 亿**,理论 runway 约 7 年(扣可转债约 4.6 年,自算)。**内部人在买不在卖**:已核对全部81份HKEX文件无大股东减持;董事长2026-09增持至8.02%,并与任峰自愿延长锁定6个月至约2027-06。合同负债 $2.1M→$29.2M。**VIE 架构:未发现**(全文无 VIE 字样,开曼 TopCo 直接持股)。"
         }
       ],
       "next_catalyst": "FY2026 全年业绩(预计 2027-03 前后):盯剔除礼来首付款后的内生收入、是否恢复拆分披露;临床真正裁决点为 Ⅲ 期读出,CT.gov 预计 2029-10-30",
@@ -3822,26 +3860,58 @@
       "gt_role": "shovel",
       "framework": "barbell-long",
       "model_distance": "structure",
-      "moat_durability": "",
-      "moat_type": [],
-      "low_grade": "",
-      "stance": "",
-      "view": "",
+      "moat_durability": "mid",
+      "moat_type": [
+        "scale-cost",
+        "physical"
+      ],
+      "low_grade": "slight",
+      "stance": "机电总包卡工人不卡物理;订单创纪录但现金流跟不上",
+      "view": "偏多·估值偏贵·数据中心集中",
       "one_liner": "",
-      "falsification": [],
-      "thesis_status": "unresearched",
+      "falsification": [
+        {
+          "text": "Q3 2026 RPO 环比下降,或同比增速跌破 +20%(Q2 为 +43.9%)→「订单加速」判断失效",
+          "status": "untriggered"
+        },
+        {
+          "text": "2026 全年 EPS 指引下调,或下限跌破 $32.00 → 下半年能见度判断出错",
+          "status": "untriggered"
+        },
+        {
+          "text": "2026 全年经营现金流低于净利润 70%(上半年仅 41%)→ 利润质量有问题(回款拖延/索赔)",
+          "status": "untriggered"
+        },
+        {
+          "text": "机械分部营业利润率连续两季低于 11%(Q2 为 12.5%,上年 13.6%)→ 工人/成本吃掉利润",
+          "status": "untriggered"
+        },
+        {
+          "text": "主要云厂商公开削减/推迟 2027 数据中心 capex,且 EME「网络与通信」收入环比下降 → 数据中心 capex 周期见顶",
+          "status": "untriggered"
+        }
+      ],
+      "thesis_status": "researched",
       "priority": "med",
       "watch_points": [
         {
           "last_checked": "2026-08-01",
           "text": "【周六深扫·新入列(未深研究)】已核事实:季末积压订单创纪录 $124.5 亿(上年同期 $68.9 亿);2026 全年营收指引上调至 $185–192.5 亿、EPS 指引 $28.25–29.75;数据中心营收同比增近 50%。入列理由:与 IESC/FIX 同赛道但体量最大,是判断『机电施工产能是否真的是卡点』的行业基准线;若 EME 与 IESC/FIX 的积压同时创纪录而利润率分化,说明卡点在人力而非订单。深度档案待补。"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【GT 深研 2026-09-25】一手源(8-K 2026-07-30 / 10-Q):Q2 RPO $171.4 亿(+43.9% YoY,上年 $119.1 亿);全年 EPS 指引 $28.25–29.75 → $32.00–33.25;Q2「网络与通信」收入 $17.72 亿占 34.4%、+67% YoY。⚠️ 旧 watch_point「积压 $124.5 亿/上年 $68.9 亿」与 8-K 不符,作废(Q1 末 RPO 实为 $156.2 亿)。"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【GT 深研 2026-09-25】盯现金:上半年经营现金流 $2.90 亿 vs 净利润 $7.09 亿(41%),应收半年 +$8.6 亿;机械分部利润率 13.6%→12.5%。Q3 看这两项是否回补。"
         }
       ],
-      "next_catalyst": "",
-      "last_reviewed": "2026-09-22",
+      "next_catalyst": "2026-10-29(推测,未公告)Q3 财报:盯 RPO 环比、网络与通信占比、经营现金流回补、机械分部利润率",
+      "last_reviewed": "2026-09-25",
       "source": "routine",
       "notes": "",
-      "as_of": null,
+      "as_of": "2026-09-24",
       "framework_note": "",
       "gt_role_note": "",
       "model_distance_note": "",
@@ -4484,21 +4554,67 @@
       "gt_role": "shovel",
       "framework": "serenity",
       "model_distance": "structure",
-      "moat_durability": "",
+      "moat_durability": "mid",
       "moat_type": [],
-      "low_grade": "",
-      "stance": "",
-      "view": "",
+      "low_grade": "none",
+      "stance": "HBM与CPO测试需求真实,但60倍TTM估值已透支大半",
+      "view": "偏多·估值贵",
       "one_liner": "",
-      "falsification": [],
-      "thesis_status": "unresearched",
-      "priority": "med",
-      "watch_points": [],
-      "next_catalyst": "",
-      "last_reviewed": "2026-09-23",
+      "falsification": [
+        {
+          "text": "Q3 非GAAP毛利率<52.5%(指引下限)或营收<$2.60亿 → 利润率结构性抬升判断错,按周期高beta股重定位",
+          "status": "untriggered"
+        },
+        {
+          "text": "Q4 营收指引环比下滑,或 DRAM 分市场营收环比下降 → HBM 动能见顶",
+          "status": "untriggered"
+        },
+        {
+          "text": "下一份10-Q SK海力士占比跌破18%且DRAM同比放缓,或一手源确认HBM4探针卡份额转给竞争者 → HBM卡点身份不成立",
+          "status": "untriggered"
+        },
+        {
+          "text": "美光9/30下调FY27资本开支口径或称HBM供给过剩 → HBM测试链需求假设受冲击(外部信号)",
+          "status": "near"
+        },
+        {
+          "text": "重组导致交付延误/存货跌价明显上升,或重组总费用超$4,000万上限 → 毛利率改善的代价被低估",
+          "status": "untriggered"
+        }
+      ],
+      "thesis_status": "researched",
+      "priority": "high",
+      "watch_points": [
+        {
+          "text": "【一手核实】Q2'26 营收$2.582亿(同比+31.9%);非GAAP毛利率53.3%(上年同期38.5%,周期低点基数);探针卡分部毛利率54.4%;FCF $5,260万(上年同期−$4,710万)。来源 8-K Ex99.1 2026-07-29 / 10-Q",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【Q3指引】营收$2.70亿±$1,000万(同比约+33%);非GAAP毛利率54.0%±1.5pp(GAAP 52.0%);非GAAP EPS $0.86±$0.09。Q3预计收到IEEPA关税退款$700–900万,留意是否抬高当季毛利率",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【HBM/CPO】DRAM探针卡$8,500万(同比+49%,10-Q称含HBM);Systems $4,855万(+44%,Triton CPO测试平台)。客户集中:SK海力士24.3%、台积电11.0%。美光不是>10%客户,9/30美光财报只是间接信号",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【估值】市值约$100.8亿(78.12M股);TTM非GAAP PE约59x、GAAP约88x、P/S约11.2x;按Q3指引年化约37.5x。6/30 $159.93→7/29 $83.45(−48%)→9/23 $131.26,振幅极大",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【内部人/回购】CEO按10b5-1在8/14($128–133,16,002股)和9/16($104–106,17,510股)减持;$7,500万回购授权H1未动用。重组关闭Carlsbad与Baldwin Park,总费用$3,200–4,000万",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【未核实】当季EPS一致预期30天上修38%(第三方数据);Q3财报日期(IR未公告,去年为10/29)",
+          "last_checked": "2026-09-25"
+        }
+      ],
+      "next_catalyst": "2026-09-30 美光FY26Q4财报(HBM资本开支口径,外部信号);Q3财报约10月底(未公告,[未核实]约10/28):裁决非GAAP毛利率是否≥52.5%、营收是否≥$2.60亿、Q4指引与DRAM分市场环比",
+      "last_reviewed": "2026-09-25",
       "source": "routine",
       "notes": "",
-      "as_of": null,
+      "as_of": "2026-09-25",
       "framework_note": "GT比特撞原子 + Serenity卡点",
       "gt_role_note": "",
       "model_distance_note": "",
@@ -8446,26 +8562,72 @@
       "gt_role": "shovel",
       "framework": "barbell-long",
       "model_distance": "structure",
-      "moat_durability": "",
+      "moat_durability": "mid",
       "moat_type": [],
-      "low_grade": "",
-      "stance": "",
-      "view": "",
+      "low_grade": "slight",
+      "stance": "增长与利润率是真的,但现金流为负、库存涨3倍靠可转债补",
+      "view": "偏多",
       "one_liner": "",
-      "falsification": [],
-      "thesis_status": "unresearched",
-      "priority": "med",
-      "watch_points": [],
-      "next_catalyst": "",
-      "last_reviewed": "2026-09-23",
+      "falsification": [
+        {
+          "text": "3Q26经营现金流仍为负且库存继续攀升(>$750M,2Q为$673M) → 增长在吃资产负债表(最硬)",
+          "status": "untriggered"
+        },
+        {
+          "text": "3Q26营收低于$519M或non-GAAP毛利率跌破49% → 指引兑现失败/组合升级停滞",
+          "status": "untriggered"
+        },
+        {
+          "text": "NAND合约价转跌且公司计提存货减值 → 解决方案业务价格风险兑现",
+          "status": "untriggered"
+        },
+        {
+          "text": "电话会承诺的下半年5家MonTitan新一线客户在2026年内落空",
+          "status": "untriggered"
+        },
+        {
+          "text": "美光9/30财报下修NAND/企业SSD需求 → 行业传导向下",
+          "status": "untriggered"
+        }
+      ],
+      "thesis_status": "researched",
+      "priority": "high",
+      "watch_points": [
+        {
+          "last_checked": "2026-09-25",
+          "text": "【一手·SEC 6-K 2026-07-30】2Q26营收$451.0M(环比+32%/同比+127%);non-GAAP毛利率50.2%(超指引48.5–49.5%);non-GAAP营业利润率23.1%;3Q指引$519–541M(环比+15~20%)、营业利润率27.5–28.5%"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【一手·现金流警报】2Q26经营现金流−$63.8M(1H26 −$95.0M,1H25 +$33.0M);库存$673.0M(2Q25 $208.0M);现金$74.4M;首次银行贷款$59.2M"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【一手·SEC 6-K 2026-08-11】8/10发行$1.0B 0息可转债(2031到期),转股价约$380.50/ADS(溢价65%),潜在稀释约7.7–8.7%,未见capped call;用途含偿还授信"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【一手】GAAP EPS $3.99含约$74.7M投资收益;主业读数看non-GAAP $2.43"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "Ferri&启动盘同比+1,690%~1,695%(一手);约占营收30%、MonTitan 2家一线已起量+下半年5家 [电话会二手摘要,未核实原文]"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "3Q26财报日公司未公告 [未核实];前置事件9/30美光财报"
+        }
+      ],
+      "next_catalyst": "2026-09-30 美光FQ4财报(行业传导);3Q26财报未公告(预计10月底~11月初):核对营收≥$519M、non-GAAP毛利率≥49%、经营现金流转正、库存",
+      "last_reviewed": "2026-09-25",
       "source": "routine",
       "notes": "",
-      "as_of": null,
+      "as_of": "2026-09-24",
       "framework_note": "GT比特撞原子 + Aschenbrenner杠铃·多头",
-      "gt_role_note": "",
-      "model_distance_note": "",
-      "moat_durability_note": "",
-      "low_grade_note": ""
+      "gt_role_note": "卖铲人·NAND放量的配套主控(偏弱卡点)",
+      "model_distance_note": "结构(隔着存储系统一层;启动盘+企业级SSD受益)",
+      "moat_durability_note": "中(独立主控龙头,但原厂自研是天花板)",
+      "low_grade_note": "距6/22高点−22.5%,但12个月+205%;前瞻PE约20x,非错杀"
     },
     {
       "symbol": "SIVE",
@@ -9415,21 +9577,67 @@
       "gt_role": "shovel",
       "framework": "gt",
       "model_distance": "structure",
-      "moat_durability": "",
+      "moat_durability": "mid",
       "moat_type": [],
-      "low_grade": "",
-      "stance": "",
-      "view": "",
+      "low_grade": "none",
+      "stance": "已成Anglo换股凭证,股价锚在Anglo而非铜矿",
+      "view": "中性",
       "one_liner": "",
-      "falsification": [],
-      "thesis_status": "unresearched",
+      "falsification": [
+        {
+          "text": "中国SAMR附重大条件批准(强制剥离资产/长期对华供货承诺)→ 协同假设打折,合并增值的多头需重估",
+          "status": "untriggered"
+        },
+        {
+          "text": "2027-03-31前仍未获中国批准或宣布终止合并 → 换股锚消失,需按独立铜矿重写档案",
+          "status": "untriggered"
+        },
+        {
+          "text": "【标的迁移】合并交割 → NYSE TECK 退市转 Anglo Teck ADR(1.3301股Anglo/每股Teck);本条目转「停止分析」并新建继任条目",
+          "status": "near"
+        },
+        {
+          "text": "Q3(预计10/29,[未核实])铜产量低于全年指引下限节奏(约114千吨/季),或QB再现运营中断 → 「QB已稳定」判断错",
+          "status": "untriggered"
+        },
+        {
+          "text": "COMEX铜价跌破US$5/磅并持续一个季度 → 周期峰值利润兑现,估值锚下移",
+          "status": "untriggered"
+        }
+      ],
+      "thesis_status": "researched",
       "priority": "med",
-      "watch_points": [],
-      "next_catalyst": "",
-      "last_reviewed": "2026-09-22",
+      "watch_points": [
+        {
+          "text": "【合并条款·一手】每1股Teck换1.3301股Anglo American;DTC持有人(IBKR属此类)收Anglo Teck ADR;Anglo Teck LSE主上市+JSE/TSX/NYSE(ADR);Teck原股东约37.6%。来源 6-K 2025-09-09、2026-06-30",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【审批进度】股东2025-12-09批准;加拿大投资法2025-12-15批准;Anglo 2026-07-30原文:中国反垄断为最后一项未完成节点,窗口2026-09至2027-03;6-K 2026-09-01:条件满足后11个交易日交割。韩国是否已批[未核实]",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【价差】1.3301×(AAL.L £40.39×1.3257 − 特别股息约US$4.19)≈$65.65,对比TECK $66.51(9/24)/$65.82(9/25盘前),价差±1%内(自算,时点不一致,股息可能调整)。股价锚定Anglo,不锚铜",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【基本面·一手】Q2'26调整后EBITDA C$21.93亿(+204%);铜产量135.9千吨(+25%);实现铜价US$6.05/磅、净现金成本US$1.64/磅;净现金C$12.44亿;2026铜指引455–530千吨。来源 6-K Q2 2026-07-22",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【清单去留·请用户决定】交割后TECK代码失效;Anglo Teck为多元化矿业(Teck仅占约38%),不一定再符合「铜卡点」逻辑。纯铜对照可看SCCO/FCX(未入列)",
+          "last_checked": "2026-09-25"
+        },
+        {
+          "text": "【未核实】当季EPS预期90天上修37%(第三方数据);合并后ADR比例与新代码;合并后铜业务占比;Q3财报日期(未正式公告)",
+          "last_checked": "2026-09-25"
+        }
+      ],
+      "next_catalyst": "中国SAMR反垄断审批(Anglo 7/30称为最后一项未完成节点;获批后11个交易日交割,TECK转为Anglo Teck ADR);预计2026-10-29 Q3财报([未核实],未正式公告;若届时未交割)",
+      "last_reviewed": "2026-09-25",
       "source": "routine",
       "notes": "2026-09-09 STEP4 轻量入列(未深研究)。入列理由见 name 字段;深档案留给后续 STEP3 逐步补。",
-      "as_of": null,
+      "as_of": "2026-09-25",
       "framework_note": "",
       "gt_role_note": "",
       "model_distance_note": "",
@@ -10068,21 +10276,59 @@
       "gt_role": "shovel",
       "framework": "barbell-long",
       "model_distance": "structure",
-      "moat_durability": "",
-      "moat_type": [],
-      "low_grade": "",
-      "stance": "",
-      "view": "",
+      "moat_durability": "mid",
+      "moat_type": [
+        "scale-cost",
+        "switching-cost",
+        "process-tech"
+      ],
+      "low_grade": "none",
+      "stance": "模拟周期上行+300mm产能红利,估值已先反映",
+      "view": "偏多·周期股·估值偏贵",
       "one_liner": "",
-      "falsification": [],
-      "thesis_status": "unresearched",
+      "falsification": [
+        {
+          "text": "Q3 2026 实际营收低于 $56.5 亿(指引下限),或 Q4 指引中值环比下降超过 10% → 周期回升提前见顶",
+          "status": "untriggered"
+        },
+        {
+          "text": "Q3 毛利率回落到 59% 以下(Q2 为 61.4%)→ 利润弹性只是一次性开工率",
+          "status": "untriggered"
+        },
+        {
+          "text": "存货环比增加超过 10% 而营收增速放缓 → 回到靠备货撑营收",
+          "status": "untriggered"
+        },
+        {
+          "text": "Silicon Labs 并购被监管否决或条件大幅恶化(加价/被迫剥离)→ 资本配置判断受挫",
+          "status": "untriggered"
+        },
+        {
+          "text": "中国区营收占比跌破 18%(Q2 为 22%)且公司归因本土替代 → 中低端护城河被侵蚀",
+          "status": "untriggered"
+        }
+      ],
+      "thesis_status": "researched",
       "priority": "med",
-      "watch_points": [],
-      "next_catalyst": "",
-      "last_reviewed": "2026-09-23",
+      "watch_points": [
+        {
+          "last_checked": "2026-09-25",
+          "text": "【GT 深研 2026-09-25】一手源(8-K 2026-07-22 / 10-Q):Q2 营收 $54.63 亿 +23% YoY / +13% QoQ;毛利率 61.4%(Q1 58.0%,+335bp);Q3 指引营收 $56.5–61.5 亿、EPS $2.23–2.57;Q2 capex $5.14 亿(−61% YoY),TTM FCF $65.3 亿(含芯片法案补贴 $11.8 亿)。"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【GT 深研 2026-09-25】估值:TTM EPS $6.58 → 约 41 倍;按 Q3 指引中值年化约 28 倍。Silicon Labs 全现金收购(EV 约 $75 亿)预计 2027H1 完成,已签 $50 亿过桥贷款。9/17 股息 +7% 至 $1.52(登记日 10/30)。"
+        },
+        {
+          "last_checked": "2026-09-25",
+          "text": "【GT 深研 2026-09-25】财报日期:TI 截至 9/25 未公告 Q3 日期。本机事件日历的 10/19 来自 Finnhub 财报日历(代码把所有 Finnhub 日期一律标 confirmed:true),Yahoo 的 10/27 也非官方;TI 惯例 10/1 前后发公告、周二/周三开会,推测 10/20 或 10/21。"
+        }
+      ],
+      "next_catalyst": "2026-10-20/21(推测,未公告)Q3 财报:盯营收落在指引内、毛利率≥61%、Q4 指引、数据中心增速",
+      "last_reviewed": "2026-09-25",
       "source": "routine",
       "notes": "",
-      "as_of": null,
+      "as_of": "2026-09-24",
       "framework_note": "GT比特撞原子 + Aschenbrenner杠铃·多头",
       "gt_role_note": "",
       "model_distance_note": "",
