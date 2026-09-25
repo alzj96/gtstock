@@ -10,6 +10,11 @@ import { readFile, writeFile } from "node:fs/promises";
 const UA = "Mozilla/5.0"; // full Chrome UA gets 429'd on getcrumb; minimal UA passes
 const HOST = "https://query1.finance.yahoo.com";
 
+// 清单里用本地交易所代码、但 Yahoo 要带后缀的票:清单代码 → Yahoo 代码
+// (SIVE = Sivers Semiconductors,纳斯达克斯德哥尔摩;XFAB = X-FAB,泛欧巴黎)
+const YAHOO_ALIAS = { SIVE: "SIVE.ST", XFAB: "XFAB.PA" };
+const ySym = (sym) => YAHOO_ALIAS[sym] ?? sym;
+
 const num = (v) => (v == null || !Number.isFinite(+v) ? null : +v);
 
 async function getSession() {
@@ -67,9 +72,11 @@ async function main() {
   if (!symbols.length) throw new Error("no symbols in data/watchlist.json");
 
   const s = await getSession();
-  const daily = await dailyQuotes(symbols, s);
+  const dailyY = await dailyQuotes(symbols.map(ySym), s);
+  const daily = Object.fromEntries(symbols.map((sym) => [sym, dailyY[ySym(sym)]]));
   const priced = symbols.filter((sym) => daily[sym] && num(daily[sym].regularMarketPrice) != null);
-  const monthly = await spark30d(priced, s);
+  const monthlyY = await spark30d(priced.map(ySym), s);
+  const monthly = Object.fromEntries(priced.map((sym) => [sym, monthlyY[ySym(sym)]]));
   const asOf = new Date().toISOString();
 
   const items = symbols.map((sym) => {
@@ -87,7 +94,7 @@ async function main() {
       change: ch != null ? +ch.toFixed(4) : (prev != null ? +(price - prev).toFixed(4) : null),
       change_pct: cp != null ? +cp.toFixed(2) : (prev ? +(((price - prev) / prev) * 100).toFixed(2) : null),
       change_30d_pct: monthly[sym] ?? null,
-      currency: row.currency ?? null, source: "yahoo", is_realtime: true, as_of: asOf,
+      currency: row.currency ?? null, source: "yahoo", is_realtime: false, as_of: asOf, // 每小时快照,页面标「延迟」
     };
   });
 
