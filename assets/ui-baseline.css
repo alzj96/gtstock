@@ -1,0 +1,67 @@
+/* 基础要求(2026-09-25):控件两档高度 + 圆里的内容与圆心重合 —— 与 IBKR 看板 / A股面板同名同值 token。
+   只在 2026-06-16 的旧包上加这一层覆盖;新包会把私有功能一起带出来,暂不发布。 */
+:root {
+  -webkit-text-size-adjust: 100%; /* 手机横屏 Safari 自动放大文字,固定尺寸的圆/方块里的字会偏 */
+  text-size-adjust: 100%;
+  --ctl-h: 36px;    /* 输入框、下拉、按钮、只读展示框 */
+  --ctl-h-sm: 28px; /* 表格/卡片内小按钮、chip、分段标签 */
+  --ctl-radius: 8px;
+}
+@media (max-width: 640px), (pointer: coarse) {
+  :root { --ctl-h: 40px; --ctl-h-sm: 32px; }
+  input, select, textarea { font-size: 16px !important; } /* 防 iOS 聚焦时整页放大 */
+}
+
+button {
+  box-sizing: border-box;
+  height: var(--ctl-h);
+  min-height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+input:not([type="checkbox"]):not([type="radio"]):not([type="file"]),
+select {
+  box-sizing: border-box;
+  height: var(--ctl-h);
+  min-height: 0;
+  padding-top: 0 !important;    /* 解锁弹窗的密码框是行内 padding: 9px 11px */
+  padding-bottom: 0 !important;
+}
+textarea { min-height: var(--ctl-h); }
+
+/* 顶部「解锁报告 / 刷新 / 报告已解锁」:标准一档 */
+.static-screener .page-header__meta > button,
+.static-screener .page-header__meta > .status-pill,
+.static-screener .page-header__meta > .static-screener__unlocked {
+  height: var(--ctl-h);
+  min-height: 0;
+}
+
+/* 页签、筛选分段、表格里的小按钮:紧凑一档 */
+.analysis-tabs button,
+.segmented-control button,
+.stock-research__fals-flag,
+.stock-research__report-btn,
+.stock-research__del-btn {
+  height: var(--ctl-h-sm);
+  min-height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+/* 不算「框」:表头排序、文字链接、报告卡片、交易预案 chip 按内容高 */
+.table-sort-button,
+.link-button,
+.research-report-card,
+.stock-research__plan-chip,
+.nav-list button {
+  height: auto;
+}
+
+/* 手机上卡片网格的列被筛选条的最小宽度撑到 380px,整页横向多出 31px:列宽允许收窄,宽表仍在卡片内横滑 */
+.static-screener .surface { grid-template-columns: minmax(0, 1fr); }
+
+/* 触屏没有真正的悬停:点完按钮 :hover 会一直挂着,按钮停在上移 1px 的位置 */
+@media (hover: none) {
+  button:hover:not(:disabled) { transform: none; }
+}
